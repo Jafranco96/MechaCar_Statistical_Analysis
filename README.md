@@ -37,7 +37,7 @@ While looking at the overall summary above, it would seem that all suspension co
 
 
 
-While Lot 1 and Lot 2 suspension coils also individually meet the variance regulation, it can be seen that Lot 3 suspension coils actually do not meet the variance regulation, having a variance of 170. This would not have been able to identified by just looking at just the overall summary. The action item from this analysis should for Lot 3 suspension coils to go through a re-design process.
+While Lot 1 and Lot 2 suspension coils also individually meet the variance regulation, it can be seen that Lot 3 suspension coils actually do not meet the variance regulation, having a variance of 170. This would not have been able to be identified by just looking at only the overall summary. The action item from this analysis should be for Lot 3 suspension coils to go through a re-design process.
 
 ## T-Tests on Suspension Coils
 
