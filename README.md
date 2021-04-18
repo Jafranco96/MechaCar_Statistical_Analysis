@@ -58,3 +58,23 @@ All t-tests can be seen below:
 
 ## Study Design: MechaCar vs Competition
 
+The previous statistical analyses helped identify insights to aid the manufacturing process of the MechaCars. Now, statistical analysis can also be used to help compared the performance of the MechaCars against the performance of vehicles from other manufactures. This study will be detailed below:
+
+
+•	What metric or metrics are you going to test?
+
+ As fuel efficiency is commonly one of the most important factors customers consider when buying a car, this is the metric the study will focus on.
+ 
+•	What is the null hypothesis or alternative hypothesis? 
+
+The null hypothesis in this case is that MechaCar’s fuel efficiency is not statistically different from that of the competition. The alternative hypothesis would be that MechaCar’s fuel efficiency is statistically different.
+
+•	What statistical test would you use to test the hypothesis? And why? 
+
+Since, in this case, the goal is to determine if there is a statistical difference between the distribution means of multiple groups (MechaCars and non-MechaCars), the statistical test most appropriate to utilize would be the one-way ANOVA test. ANOVA should be utilized instead of a two-sample T-Test since the non-MechaCars grouping will be composed of samples from several manufactures.
+
+•	What data is needed to run the statistical test?
+
+Continuous data detailing fuel efficiency presented categorically for each sample for both the MechaCars and non-MechaCars will be needed to perform the one-way ANOVA test, 
+
+
