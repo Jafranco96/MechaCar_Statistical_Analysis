@@ -75,6 +75,6 @@ Since, in this case, the goal is to determine if there is a statistical differen
 
 •	What data is needed to run the statistical test?
 
-Continuous data detailing fuel efficiency presented categorically for each sample for both the MechaCars and non-MechaCars will be needed to perform the one-way ANOVA test, 
+Continuous data detailing fuel efficiency presented categorically for each sample for both the MechaCars and non-MechaCars will be needed to perform the one-way ANOVA test.
 
 
